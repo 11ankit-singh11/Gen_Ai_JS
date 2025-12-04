@@ -95,7 +95,7 @@ async function main() {
     {
       role: 'user',
       content:
-        'In the current directly, read the changes via git and push the changes to github with good commit message',
+        'save all the changes made to files in my current directory to a git repo and push to github',
     },
   ];
 
