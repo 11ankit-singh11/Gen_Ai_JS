@@ -12,9 +12,14 @@
   "license": "ISC",
   "packageManager": "pnpm@10.22.0",
   "dependencies": {
+    "@langchain/community": "^1.1.0",
+    "@langchain/core": "^1.1.5",
+    "@langchain/openai": "^1.2.0",
+    "@langchain/qdrant": "^1.0.1",
     "axios": "^1.13.2",
     "dotenv": "^17.2.3",
     "js-tiktoken": "^1.0.21",
-    "openai": "^6.9.0"
+    "openai": "^6.9.0",
+    "pdf-parse": "^1.1.4"
   }
 }
